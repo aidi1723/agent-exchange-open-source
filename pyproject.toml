@@ -8,6 +8,7 @@ version = "0.2.0"
 description = "Trusted Agent-to-Agent capability exchange with verification, quote-locked checkout, and mock escrow"
 readme = "README.md"
 requires-python = ">=3.9"
+license = "MIT"
 dependencies = [
     "fastapi>=0.110",
     "uvicorn[standard]>=0.27",
